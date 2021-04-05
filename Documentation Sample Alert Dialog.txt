@@ -1,0 +1,4 @@
+To Use Alert Dialog
+1. addInfoDialog to create box dialog that chose button yes and no
+2. singleChoiceDialog to choose one from multiple choice
+3. multiChoiceDialog to choose multiple choice
